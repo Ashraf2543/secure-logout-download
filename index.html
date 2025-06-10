@@ -130,7 +130,29 @@
             </div>
         </div>
     </section>
+    <!-- Visitor Counter -->
+<div class="visitor-counter">
+    <p>Visitors: <span id="counter">0</span></p>
+</div>
 
+<script>
+    // Get current count from localStorage or initialize
+    let count = localStorage.getItem('visitorCount') || 0;
+    count++;
+    localStorage.setItem('visitorCount', count);
+    document.getElementById('counter').textContent = count;
+</script>
+
+<style>
+    .visitor-counter {
+    text-align: center;
+    margin: 30px 0;
+    padding: 15px;
+    background: #f5f5f5;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+}
+</style>
     <footer>
         <div class="container">
             <div class="footer-content">
