@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ashraf2543.github.io/secure-logout-download/sitemap.xml
