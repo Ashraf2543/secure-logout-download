@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Allow: /pagead/
-Allow: /pagead/js/
-Sitemap: https://securelogout.netlify.app/sitemap.xml
