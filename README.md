@@ -54,7 +54,8 @@ In shared or public systems, users often forget to log out. This extension helps
 
 ## 📸 Screenshots
 
-*(You can add screenshots here if needed)*
+*![image](https://github.com/user-attachments/assets/ba771ddc-6ffa-41ac-85a7-648bf9f0c94d)
+*
 
 ## 📜 License
 
